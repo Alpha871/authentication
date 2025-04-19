@@ -66,5 +66,5 @@ This project demonstrates the core concepts of modern authentication in web appl
    npm run dev
    ```
 
----
+
 
