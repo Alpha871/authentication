@@ -1,5 +1,4 @@
 
----
 
 # 🛡️ Fundamental of Authentication App
 
@@ -28,7 +27,7 @@ This project demonstrates the core concepts of modern authentication in web appl
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/Alpha871/authentication.git
    ```
 
 2. **Install dependencies**  
